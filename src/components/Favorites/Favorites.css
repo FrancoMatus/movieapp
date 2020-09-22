@@ -1,0 +1,9 @@
+.cnt {
+    padding-top: 10px;
+}
+
+.non-style{
+    list-style: none;
+    width: auto;
+    margin: 20px;
+}
